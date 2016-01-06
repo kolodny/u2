@@ -1,0 +1,29 @@
+{
+  "name": "u2",
+  "version": "0.0.3",
+  "description": "run multiple processes on a single process",
+  "main": "index.js",
+  "bin": {
+    "u2": "./bin.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "shell",
+    "process",
+    "script",
+    "cli",
+    "tool"
+  ],
+  "author": "Moshe Kolodny",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kolodny/u2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kolodny/u2/issues"
+  },
+  "homepage": "https://github.com/kolodny/u2#readme"
+}
